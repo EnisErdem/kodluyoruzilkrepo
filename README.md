@@ -1,6 +1,6 @@
 # kodluyoruzilkrepo
 Kodluyoruz Eğitimi kapsamında açtığım ilk repo
-içerisinde bir adet README dosyası,bir adet de index dosyası bulunuyor.
+içerisinde bir adet README dosyası,bir adet de index.html dosyası bulunuyor.
 
 ---
 
@@ -21,3 +21,6 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 
 # License
 [MIT](https://choosealicense.com/licenses/mit/)
+
+---
+[www.patika.dev](https://app.patika.dev/paths)
